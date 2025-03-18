@@ -1,4 +1,4 @@
-# 📌 Estrutura de Dados - Aula 06
+# 📌 Estruturação de Dados
 
 ## 📌 Métodos Elementares de Ordenação
 
