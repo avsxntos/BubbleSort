@@ -28,5 +28,7 @@ public class InsertionSort {
         for(int i = 0; i < vetor.length; i++) {
             System.out.println(vetor[i]);
         }
+
+        // Método de ordenação 
     }
 }
